@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 3C33-4884
-
- Directory of C:\Users\hiren\OneDrive\Desktop\git
-
-07-08-2020  05:05    <DIR>          .
-07-08-2020  05:05    <DIR>          ..
-07-08-2020  05:05                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  44,024,270,848 bytes free
+chnges1
